@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=increase
+comment0.target=void\ SpeedUp(int)
+comment1.params=deccrease
+comment1.target=void\ SpeedDown(int)
+comment2.params=
+comment2.target=void\ explode()
+comment3.params=
+comment3.target=void\ reaset()
+numComments=4

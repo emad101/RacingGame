@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GreenWinner()
+comment1.params=myOpenScreen
+comment1.target=GreenWinner(OpenScreen)
+comment1.text=\r\n\ refence\ from\ green\ winner\ to\ openscreen\ class\r\n
+comment2.params=
+comment2.target=void\ showImage()
+comment2.text=\r\n\ image\ \ of\ the\ green\ winner\r\n
+numComments=3

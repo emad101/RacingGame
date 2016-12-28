@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ground()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ open()
+comment2.text=\r\n\ open\ method\ declare\ the\ ground\ class\ in\ openScreen\ class\r\n
+comment3.params=
+comment3.target=void\ checkGreenLaps()
+comment3.text=\r\n\ cheaking\ if\ the\ green\ car\ finished\ three\ laps\ or\ not\ and\ if\ it\ did\ then\ it\ will\ ope\ RedWinner\ class\r\n
+comment4.params=
+comment4.target=void\ showMap1()
+comment4.text=\r\n\ background\ of\ the\ ground\ picture\r\n
+comment5.params=
+comment5.target=void\ checkRedLaps()
+comment5.text=\r\n\ cheaking\ if\ the\ red\ car\ finished\ three\ laps\ or\ not\ and\ if\ it\ did\ then\ it\ will\ ope\ RedWinner\ class\r\n
+numComments=6

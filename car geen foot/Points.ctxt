@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ \ variables\ to\ declare\ if\ the\ car\ touched\ the\ points\ for\ both\ car\r\n
+comment1.params=
+comment1.target=void\ imageSadSmily()
+comment1.text=\r\n\ image\ of\ the\ sad\ smiley\ \r\n
+comment2.params=
+comment2.target=void\ imageHappySmily()
+comment2.text=\r\n\ image\ of\ the\ happy\ smiley\ \r\n
+comment3.params=
+comment3.target=void\ carpassed()
+comment3.text=\r\n\ to\ cheak\ of\ the\ cars\ touched\ the\ points\ using\ the\ Intersecting\ method\ for\ the\ green\ car\r\n
+comment4.params=
+comment4.target=void\ carpassed2()
+comment4.text=\r\n\ to\ cheak\ of\ the\ cars\ touched\ the\ points\ using\ the\ Intersecting\ method\ for\ the\ red\ car\r\n
+numComments=5

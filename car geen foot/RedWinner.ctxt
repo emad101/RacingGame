@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RedWinner()
+comment0.text=\r\n\ giving\ the\ image\ and\ the\ width\ of\ the\ picture\r\n
+comment1.params=myOpenScreen
+comment1.target=RedWinner(OpenScreen)
+comment1.text=\r\n\ giving\ the\ refrence\ of\ the\ open\ screen\ class\r\n
+comment2.params=
+comment2.target=void\ showImage()
+comment2.text=\r\n\ the\ image\ of\ the\ winnwe\ red\ car\r\n
+numComments=3

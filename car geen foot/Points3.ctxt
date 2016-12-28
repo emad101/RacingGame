@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ calling\ the\ car\ and\ the\ red\ car\ and\ cheacing\ if\ the\ car\ touched\ or\ not\ and\ then\ declaring\ the\ sad\ or\ happy\ smiley\r\n
+comment1.params=
+comment1.target=void\ setCartouched()
+comment1.text=\r\n\ \ setters\ for\ the\ car\ touched\ of\ the\ green\ car\r\n
+comment2.params=
+comment2.target=void\ setCartouched2()
+comment2.text=\r\n\ \ setters\ for\ the\ car\ touched\ of\ the\ gre\ car\r\n
+numComments=3
